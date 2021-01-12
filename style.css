@@ -1,0 +1,340 @@
+
+body{
+	margin:0px;
+	padding: 0px;     	  
+}
+html{
+	scroll-behavior: smooth;
+}
+.maindiv{
+
+		height: 40px;
+		background:linear-gradient(75deg,blue,lightgreen,lightgreen,lightgreen,lightgreen,blue);
+        text-align: center;
+	}
+	/*@keyframes wave {
+		0%{background:lightblue;}
+		500%{background:green;}
+		100%{background:lightgreen;}
+	}*/
+	#qwe{
+		color: #42414C;
+		font-size: 35px;
+		line-height: 40px;
+		font-family: sans-serif;
+	}
+	/*.second{
+		background: black;
+		height: 40px;
+		text-align: center;
+		font-family: sans-serif;	
+	}*/
+	#as{
+		font-size: 25px;
+		color:#42414C;
+		font-family: initial;
+		
+	}
+	.navbar-nav{
+		font-size: 19px;
+		margin-top: 20px; 
+	}
+	.navbar-nav .nav-link{
+      font-family: initial;
+      margin-left: 20px; 
+	}
+	.navbar-nav .nav-link:hover{
+		border-bottom:solid 3px lightgreen;
+		height: 50px;
+
+	}
+	/*#slider{
+		height: 550px;
+		background-image: url(honey1.jpg);
+		background-size: 100% 100%;
+		animation-name: slider;
+        animation-duration: 20s;
+        animation-iteration-count: infinite ;
+        margin-bottom: 20px;
+        background-color: #cccccc;		
+	}
+	@keyframes slider {
+		0%{background-image: url(honey1.jpg);}
+		20%{background-image: url(saffron.jpg)}
+		45%{background-image: url(hurbs2.jpg);}
+		60%{background-image: url(oils.jpg);}
+		80%{background-image: url(flavous1.jpg)}
+	}*/
+
+
+
+	/*.ceo{
+		height: 300px;
+		width: 100%;
+		background: #E1DEC8;
+	/*}*/
+	/*.ceo{
+		background: lightgreen;
+		height: 290px;
+		margin-top: 40px;
+	}*/
+	.pic{
+		height: 200px;
+	text-align: center;
+	margin:45px 80px 0px 190px;
+	
+	
+
+	}
+	.mess{
+	height: 200px;
+	width: 600px;
+	text-align: center;
+	
+	margin:30px 0px 0px 0px;	
+	}
+	.mess h2{
+		line-height: 70px;
+		font-family: initial;
+	}
+.vis{
+	margin: 40px;
+	text-align: center;
+	margin-top: 50px;
+}
+.vis p{
+	font-family: initial;
+	font-size: 19px;
+}
+.mis{
+	text-align: center;
+	margin-top: 50px;
+}
+.mis h2{
+	font-family: initial;
+	line-height: 70px;
+}
+.mis p{
+font-family: initial;
+	font-size: 19px;	
+}
+
+.vis h2{
+	font-family: initial;
+	line-height: 70px;
+}
+.obj{
+	
+	text-align: center;
+	margin: 40px;
+	margin-top: 50px;
+}
+.obj h2{
+	line-height: 70px;
+	font-family: initial;
+}
+
+
+
+	h1{
+		text-align: center;
+		font-family: initial;
+	}
+	.container .card{
+                 border-radius: 100%;
+                 height: 100px;
+                 width: 100px;
+                 border:solid 3px blue; 
+                 margin-top: 40px;
+                 text-align: center;
+                 line-height: 90px;
+                 font-family: initial;
+                 font-size: 15px;
+                 margin-left: 14px; 
+                 
+		}
+		.container .card a{
+		text-decoration: none;
+		color: black;
+		display: block;		 
+		}
+		/*
+.contain .card{
+                 border-radius: 100%;
+                 height: 100px;
+                 width: 100px;
+                 border:solid 3px green;
+                 margin-top: 70px;
+                 text-align: center;
+                 line-height: 90px;
+                 font-family: initial;
+                 font-size: 15px;
+             }
+		.contain .card a{
+		text-decoration: none;
+		color: black;
+		display: block;
+
+		}
+		.contain .card:hover{
+			font-size: 0;
+			transform: scale(1.1);
+			
+		}*/
+		.container .card:hover{
+			font-size:0;
+			transform: scale(1.1);
+			display: block;
+}
+#a1:hover{
+background:url(ho.jpg);
+			background-size: 100% 100%;
+	 border-radius: 100%;
+	 		
+}
+#a2:hover{
+background:url(sa.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+#a3:hover{
+background:url(so.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+#a4:hover{
+background:url(qwe.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+#a5:hover{
+background:url(ko.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+#a6:hover{
+background:url(bur.jpg);
+			background-size: cover;	
+			border-radius: 100%;	 
+}
+#a7:hover{
+background:url(zum.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+#a8:hover{
+background:url(da.jpg);
+			background-size: cover;	
+			border-radius: 100%; 
+}
+#a9:hover{
+background:url(dro.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+#a10:hover{
+background:url(zauk.jpg);
+			background-size: cover;	
+			border-radius: 100%;
+}
+		.m{
+          margin-top: 50px;
+		}
+		#our{
+			color: blue;
+		}
+		#pro{
+			color: #BAE735;
+		}
+       .bg-primary i:hover{
+       transform: rotateY(180deg);
+       transition: 0.3s;  
+       }
+       #foot{
+       }
+       .back{
+       	background-image: linear-gradient(#DCE893,rgba(0,0,0,0.01)),url(bg1.jpg);
+       	background-position: center;
+       	background-size:100% 100%;
+       	overflow-x: hidden;
+       	position: relative;
+       }
+       .scroll{
+	position: fixed;
+	bottom: 35px;
+	right: 15px;
+	z-index: 10;
+	cursor: pointer;
+	display: block;
+}
+.scroll i{
+	height: 35px;
+	width: 35px;
+	background: lightgreen;
+	text-align: center;
+	border-radius: 70%;
+	color: green;
+	line-height: 33px;
+}
+.what{
+	position: fixed;
+	bottom: 35px;
+	left: 25px;
+	z-index: 60;
+	cursor: pointer;
+	display: block;
+	
+}
+.what i{
+	height: 65px;
+	width: 65px;
+	background:#2DBB0A;
+	text-align: center;
+	border-radius: 70%;
+	color: white;
+	line-height: 67px;
+	animation: wee 8s 1;
+}
+.what i:hover{
+	background-color: #7BE661;
+	transition: 0.6s;
+	transform: scale(1.1); 
+}
+@keyframes wee{
+	0%{
+     margin-left: -180px;   
+	}
+	40%{
+        margin-left: 0px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
